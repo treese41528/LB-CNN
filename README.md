@@ -24,6 +24,9 @@ FashionMNIST: https://github.com/zalandoresearch/fashion-mnist/tree/master/data/
 Cifar10: https://www.cs.toronto.edu/~kriz/cifar.html
 Cifar100: https://www.cs.toronto.edu/~kriz/cifar.html
 
+
+For the ImageNet example you can get the predictions of any image by changing the link to the image given under the name 'img_loc'.
+
 Running Google Colabatory Notebooks:
-You need to mount the google drive which requires giving permission as in the example https://colab.research.google.com/notebooks/io.ipynb.
-The provided google collabatory notebooks already have the code for doing this provided you used the correct file structure provided above.
+Mount the google drive. This requires giving permission as in the example https://colab.research.google.com/notebooks/io.ipynb.
+The provided google collabatory notebooks already have the code for doing this provided you used the correct file structure specified above.
